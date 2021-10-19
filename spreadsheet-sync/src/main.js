@@ -1,4 +1,4 @@
-import Tabletop from 'tabletop'
+//import Tabletop from 'tabletop'
 
 const ROW_HEIGHT = 30
 const ROW_MARGIN = 10
